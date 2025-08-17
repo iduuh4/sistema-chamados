@@ -6,7 +6,7 @@
 
 Linux talvez tenha que dar permissão de escrita na pasta uploads e a versão para rodar o sistema php 8.1.
 
-## Banco de dados Dentro da pasta do projeto na raiz estará o Dump.sql ou o codigo sql abaixo.
+## Banco de dados Dentro da pasta do projeto na raiz estará o Dump.sql ou o codigo sql abaixo...
 
 CREATE DATABASE IF NOT EXISTS desafiotecnico /!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /!80016 DEFAULT ENCRYPTION='N' */; USE desafiotecnico; -- MySQL dump 10.13 Distrib 8.0.43, for Win64 (x86_64) -- -- Host: 127.0.0.1 Database: desafiotecnico -- ------------------------------------------------------ -- Server version 9.1.0
 
