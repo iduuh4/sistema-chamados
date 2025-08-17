@@ -4,6 +4,8 @@
 
 - PHP 8.1  
 - CodeIgniter 3
+- Bootstrap 5
+- Javascript ECMAScript 5.1
 
 ## Lógica do sistema
 
